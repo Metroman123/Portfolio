@@ -17,4 +17,4 @@ DevOps & Version Control: Git, GitHub, CI/CD
 📫 Let's Connect!
 If you're interested in collaborating or have any questions, feel free to reach out via email or check out my [LinkedIn] (if applicable).
 
-Would you like me to adjust anything or include a GitHub profile banner suggestion?
+Please see files above for images or videos for existing projeects.
