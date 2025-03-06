@@ -15,6 +15,6 @@ DevOps & Version Control: Git, GitHub, CI/CD
 🔹 Unreal Engine Development – Showcasing my latest game development project.
 
 📫 Let's Connect!
-If you're interested in collaborating or have any questions, feel free to reach out via email or check out my [LinkedIn] (if applicable).
+If you're interested in collaborating or have any questions, feel free to reach out via nickmorin85@gmail.com
 
 Please see files above for images or videos for existing projeects.
